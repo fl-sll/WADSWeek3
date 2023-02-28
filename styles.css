@@ -1,0 +1,16 @@
+body {
+    margin-left: 75px;
+    background-color: aliceblue;
+}
+
+#head {
+    text-align:center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
